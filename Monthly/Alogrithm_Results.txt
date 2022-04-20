@@ -1,0 +1,12 @@
+RMSE Result Comparison :1. RMSE : Naive Forecasting : 2.5963166684587096
+2. RMSE : Simple Average : 16.97474387309896
+3. RMSE : Moving Average : 13.88592947532821
+4. RMSE : Holt’s Linear Trend method  : 13.927138671770166
+4. RMSE : Holt’s Linear Trend method  : 13.927138671770166
+5. RMSE : Holt’s Winter Trend method  : 2.1302212773282863
+
+R Square Result Comparison :1. R2 : Naive Forecasting : 0.963896525475807
+2. R2 : Simple Average : -0.5432636841945875
+3. R2 : Moving Average : -0.03272237569994596
+4. R2 : Holt’s Linear Trend method  : -0.03886108011889866
+5. R2 : Holt’s Winter Trend method  : 0.975695700242537
